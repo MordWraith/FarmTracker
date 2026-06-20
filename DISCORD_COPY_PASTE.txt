@@ -1,0 +1,11 @@
+https://github.com/MordWraith/FarmTracker
+
+FarmTracker v1.0.1 for GameHelper2: farm session tracker with slim map/session overlays, loot profit in divine equivalent (inventory diff), per-map history, session archive, and map resume. New in 1.0.1 — side zones like Abyssal Depths, Expedition sub-areas, and Breach domains count as the same map run (toggle in settings, default on).
+
+Originally by Senbry; GameHelper2 port by MordWraith. Also in MordWraith/Gamehelper releases. Read-only overlay — no input automation.
+
+Build from source only: clone into Plugins/FarmTracker, dotnet build GameHelper and the plugin. .NET 10, net10.0-windows, x64.
+
+Feedback / features: this thread. Crashes / install: #help tag plugin.
+
+Community third-party — use at your own risk.
